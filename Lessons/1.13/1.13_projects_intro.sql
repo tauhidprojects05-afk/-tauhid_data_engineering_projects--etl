@@ -1,6 +1,6 @@
 -- EDA is generally done by business analytics and data analytics
 
 SELECT Distinct
- job_title_short,jo_title
+ job_country
  FROM 
-  job_postings_fact
+  job_postings_fact;
